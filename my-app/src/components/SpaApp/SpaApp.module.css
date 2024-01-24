@@ -1,0 +1,26 @@
+.main{
+    background-color: #e3e3e3;
+    border-radius: 10px;
+    padding: 20px;
+    width: 800px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.quote{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.author{
+    font-size: 25px;
+    font-style: italic;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #91abbd;
+}
